@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    
+    <channel>
+        <title>Bot Discord</title>
+        <description>Java bot discord created by Bogdan and Cristi</description>
+        <item>
+            <title>What is the difference between an Inner Class and a Sub-Class?</title>
+            <description>An Inner class is a class which is nested within another class. An Inner class has access rights for the class which is nesting it and it can access all variables and methods defined in the outer class.</description>
+        </item>
+        <item>
+            <title>What is data encapsulation and what's its significance?</title>
+            <description>Encapsulation is a concept in Object Oriented Programming for combining properties and methods in a single unit. </description>
+        </item>
+        <item>
+            <title>What is a singleton class?</title>
+            <comment>este ok</comment>
+            <description>A singleton class in java can have only one instance and hence all its methods and variables belong to just one instance. Singleton class concept is useful for the situations when there is a need to limit the number of objects for a class. </description>
+        </item>
+        <item>
+            <title>What is an infinite Loop?</title>
+            <description>An infinite loop runs without any condition and runs infinitely. An infinite loop can be broken by defining any breaking logic in the body of the statement blocks. </description>
+        </item>
+        <item>
+            <title>What is the difference between continue and break statement?</title>
+            <description>break and continue are two important keywords used in Loops. When a break keyword is used in a loop, loop is broken instantly while when continue keyword is used, current iteration is broken and loop continues with next iteration. </description>
+        </item>
+        <item>
+            <title>What is the difference between double and float variables in Java?</title>
+            <description>In java, float takes 4 bytes in memory while Double takes 8 bytes in memory. Float is single precision floating point decimal number while Double is double precision decimal number. </description>
+        </item>
+        <item>
+            <title>What is Final Keyword in Java?</title>
+            <description>In java, a constant is declared using the keyword Final. Value can be assigned only once and after assignment, value of a constant can't be changed. </description>
+        </item>
+        <item>
+            <title>Can main() method in Java can return any data?</title>
+            <description>In java, main() method can't return any data and hence, it's always declared with a void return type. </description>
+        </item>
+        <item>
+            <title>What are Java Packages?</title>
+            <description>In Java, package is a collection of classes and interfaces which are bundled together as they are related to each other. </description>
+        </item>
+        <item>
+            <title>Can we declare a class as Abstract without having any abstract method?</title>
+            <description>Yes we can create an abstract class by using abstract keyword before class name even if it doesn't have any abstract method. However, if a class has even one abstract method, it must be declared as abstract otherwise it will give an error. </description>
+        </item>
+    </channel>
+</rss>

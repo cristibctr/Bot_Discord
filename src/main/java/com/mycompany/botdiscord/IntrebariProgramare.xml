@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    
+    <channel>
+        <title>Bot Discord</title>
+        <description>Java bot discord created by Bogdan and Cristi</description>
+        <item>
+            <title>What is debugging?</title>
+            <description>Debugging is the process of finding and removing errors in a program. In this process, the program is thoroughly checked for errors. Then errors are pointed out and debugged.</description>
+        </item>
+        <item>
+            <title>What is Computer programming?</title>
+            <description>Computer Programming is also known as programming or coding. Programming is a process which includes processes such as coding, maintaining, updating, debugging, writing, designing (algorithm), etc.</description>
+        </item>
+        <item>
+            <title>How does programming work?</title>
+            <description>Programming contains a set of instructions for the computer to perform different tasks. In fact, those instructions are executable commands, each having a different purpose.</description>
+        </item>
+        <item>
+            <title>When a syntax error occurs?</title>
+            <description>A syntax error occurs when the program violates one or more grammatical rules of the programming language. These errors are detected at compile time, i.e., when the translator (compiler or interpreter) attempts to translate the program.</description>
+        </item>
+        <item>
+            <title>When a logical error occurs?</title>
+            <description>The logical error happens when a program implements the wrong logic. The translator (compiler or interpreter) does not report any error message for a logical error. These errors are the most difficult to locate.</description>
+        </item>
+    </channel>
+</rss>
