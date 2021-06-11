@@ -1,4 +1,4 @@
-# Proiect_botDiscord_Java
+# Bot_Discord
 
 Pentru acest proiect au fost folosite ROME pentru preluarea de date din RSS si JDA pentru conectarea la API-ul discord-ului.
 
